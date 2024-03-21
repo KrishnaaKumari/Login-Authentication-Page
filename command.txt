@@ -1,0 +1,18 @@
+==================================== client (front end)====================
+npm init vite 
+ y
+ client
+ react
+ javascript
+  cd client
+  npm install
+  npm install bootstrap axios react-router-dom
+  npm run dev
+
+
+
+  ================================== server (backend) =================================
+  cd server  
+  npm init -y
+  npm install express mongoose cors nodemon
+  
